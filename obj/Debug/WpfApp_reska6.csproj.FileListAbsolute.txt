@@ -1,0 +1,16 @@
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.csproj.AssemblyReference.cache
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.csproj.SuggestedBindingRedirects.cache
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\MainWindow.g.cs
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\App.g.cs
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6_MarkupCompile.cache
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6_MarkupCompile.lref
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\bin\Debug\WpfApp_reska6.exe.config
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\bin\Debug\WpfApp_reska6.exe
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\bin\Debug\WpfApp_reska6.pdb
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\MainWindow.baml
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.g.resources
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.Properties.Resources.resources
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.csproj.GenerateResource.cache
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.csproj.CoreCompileInputs.cache
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.exe
+C:\Datane\Nutech\RESKA\new\AppRFIDListener\WpfApp_reska6\obj\Debug\WpfApp_reska6.pdb
